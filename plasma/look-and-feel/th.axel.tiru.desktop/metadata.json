@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "axel358@yahoo.com",
+                "Name": "Axel358"
+            }
+        ],
+        "Category": "",
+        "Description": "Tiru by Axel358",
+        "Id": "th.axel.tiru.desktop",
+        "License": "GPLv2+",
+        "Name": "Tiru",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "0.1",
+        "Website": "https://github.com/axel358/plasma-tiru"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "defaults"
+}
